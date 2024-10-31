@@ -2,8 +2,8 @@ import  http  from 'http'
 
 // Los datos que quieres enviar
 const postData = JSON.stringify({
-  password: 'password123',
-  email: 'lucianocaetano@gmail.com'
+  password: '',
+  email: ''
 })
 
 // Configuración de la petición

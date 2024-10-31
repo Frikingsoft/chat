@@ -1,5 +1,6 @@
 const autenticar = (req,res,next)=>{
     const datos_usuario = req.body
+    console.log(req.body)
     const validar_usuario =()=>{
         
     }
